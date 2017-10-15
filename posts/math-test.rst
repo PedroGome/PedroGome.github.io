@@ -9,4 +9,4 @@
 
 Escriba su publicación aquí.
 .. math::
-*Sucesión:* \[(a_n)_{n=1} a_1 , a_2 , a_3 , \cdots , a_n\]
+*Sucesión:* (a_n)_{n=1} a_1 , a_2 , a_3 , \cdots , a_n
