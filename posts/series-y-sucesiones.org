@@ -1,0 +1,14 @@
+#+BEGIN_COMMENT
+.. title: Series y Sucesiones
+.. slug: series-y-sucesiones
+.. date: 2017-10-15 22:38:12 UTC+02:00
+.. tags: calculo,
+.. category: 
+.. link: 
+.. description: 
+.. type: text
+#+END_COMMENT
+
+
+* Sucesiones y Series
+*Sucesión:* $(a_n)_{n=1}\ a_1 , a_2 , a_3 , \cdots , a_n$
