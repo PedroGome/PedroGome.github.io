@@ -1,7 +1,7 @@
 .. title: math test
 .. slug: math-test
 .. date: 2017-10-15 23:35:36 UTC+02:00
-.. tags: 
+.. tags: mathjax
 .. category: 
 .. link: 
 .. description: 
