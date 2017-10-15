@@ -4,3 +4,7 @@ cache
 output
 .doit.db
 _env/
+
+# temp files=
+
+*.swp
