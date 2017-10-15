@@ -13,4 +13,7 @@
 
 * Sucesiones y Series
   *Sucesión:*  \[(a_n)_{n=1} a_1 , a_2 , a_3 , \cdots , a_n\]
-ej. \[\left{ \left(-1 \right)^{n} \right}\limits_{n=1} ^{\infty} \Rightarrow -1,1,-1,1,\cdots\]
+  ej. \[\left\leftbraces \left(-1 \right)^{n} \right\rightbraces\limits_{n=1} ^{\infty} \Rightarrow -1,1,-1,1,\cdots\]
+** Converge hacia L
+   Si cuando los términos se acercan hacia L
+   
