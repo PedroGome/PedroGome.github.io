@@ -2,7 +2,7 @@
 .. title: Series y Sucesiones
 .. slug: series-y-sucesiones
 .. date: 2017-10-15 22:38:12 UTC+02:00
-.. tags: cálculo, apuntes
+.. tags: cálculo, apuntes, mathjax
 .. category: 
 .. link: 
 .. description: Apuntes
