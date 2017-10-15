@@ -14,7 +14,4 @@
 
 
 * Sucesiones y Series
-*Sucesión:* 
-\begin{equation}
-(a_n)_{n=1} a_1 , a_2 , a_3 , \cdots , a_n
-\end{equation}
+*Sucesión:* \[(a_n)_{n=1} a_1 , a_2 , a_3 , \cdots , a_n\]
