@@ -1422,3 +1422,7 @@ LATEX_FORMULA_ADDITIONAL_PREAMBLE = {
 \newcommand{\R}{\mathbb{R}}
 \newcommand{\C}{\mathbb{C}}"""
 }
+
+# Github deploy config
+GITHUB_SOURCE_BRANCH = 'sources'
+GITHUB_DEPLOY_BRANCH = 'master'
