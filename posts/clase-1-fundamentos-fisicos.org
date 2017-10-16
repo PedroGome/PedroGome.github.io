@@ -1,0 +1,14 @@
+#+BEGIN_COMMENT
+.. title: Clase 1 Fundamentos Fisicos
+.. slug: clase-1-fundamentos-fisicos
+.. date: 2017-10-16 14:48:44 UTC+02:00
+.. tags: fundamentos físicos, mathjax, apuntes
+.. category: 
+.. link: 
+.. description: 
+.. type: text
+#+END_COMMENT
+* Posición dada la aceleración
+  Dado que la velocidad viene dada por la derivada de la posición y la aceleración es la derivada de la velocidad se puede expresar de la siguiente manera:
+\[ \frac{dx}{dt} x = v \]
+\[ \frac{dv}{dt} v = a \]
