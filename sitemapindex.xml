@@ -7,11 +7,11 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
   <loc>https://PedroGome.github.io/categories/apuntes.xml</loc>
-  <lastmod>2017-10-16T13:09:00Z</lastmod>
+  <lastmod>2017-10-16T21:39:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://PedroGome.github.io/categories/calculo.xml</loc>
-  <lastmod>2017-10-16T12:44:00Z</lastmod>
+  <lastmod>2017-10-16T15:45:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://PedroGome.github.io/categories/fundamentos-fisicos.xml</loc>
@@ -19,18 +19,14 @@
  </sitemap>
  <sitemap>
   <loc>https://PedroGome.github.io/categories/mathjax.xml</loc>
-  <lastmod>2017-10-16T13:09:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://PedroGome.github.io/galleries/rss.xml</loc>
-  <lastmod>2017-10-15T20:30:00Z</lastmod>
+  <lastmod>2017-10-16T21:39:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://PedroGome.github.io/rss.xml</loc>
-  <lastmod>2017-10-16T13:09:00Z</lastmod>
+  <lastmod>2017-10-16T21:39:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://PedroGome.github.io/sitemap.xml</loc>
-  <lastmod>2017-10-16T13:09:00Z</lastmod>
+  <lastmod>2017-10-16T21:58:00Z</lastmod>
  </sitemap>
 </sitemapindex>
