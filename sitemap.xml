@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://PedroGome.github.io/</loc>
-  <lastmod>2017-10-15T22:16:00Z</lastmod>
+  <lastmod>2017-10-15T22:17:00Z</lastmod>
  </url>
  <url>
   <loc>https://PedroGome.github.io/2017/</loc>
@@ -15,15 +15,11 @@
  </url>
  <url>
   <loc>https://PedroGome.github.io/archive.html</loc>
-  <lastmod>2017-10-15T21:46:00Z</lastmod>
- </url>
- <url>
-  <loc>https://PedroGome.github.io/blog/</loc>
-  <lastmod>2017-10-15T22:16:00Z</lastmod>
+  <lastmod>2017-10-16T12:52:00Z</lastmod>
  </url>
  <url>
   <loc>https://PedroGome.github.io/categories/</loc>
-  <lastmod>2017-10-15T21:40:00Z</lastmod>
+  <lastmod>2017-10-16T13:09:00Z</lastmod>
  </url>
  <url>
   <loc>https://PedroGome.github.io/categories/apuntes/</loc>
@@ -32,6 +28,10 @@
  <url>
   <loc>https://PedroGome.github.io/categories/calculo/</loc>
   <lastmod>2017-10-15T20:43:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://PedroGome.github.io/categories/fundamentos-fisicos/</loc>
+  <lastmod>2017-10-16T13:09:00Z</lastmod>
  </url>
  <url>
   <loc>https://PedroGome.github.io/categories/mathjax/</loc>
@@ -44,6 +44,10 @@
  <url>
   <loc>https://PedroGome.github.io/listings/</loc>
   <lastmod>2017-10-15T20:25:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://PedroGome.github.io/posts/clase-1-fundamentos-fisicos/</loc>
+  <lastmod>2017-10-16T12:52:00Z</lastmod>
  </url>
  <url>
   <loc>https://PedroGome.github.io/posts/series-y-sucesiones/</loc>
